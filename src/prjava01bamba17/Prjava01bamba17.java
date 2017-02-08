@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 package prjava01bamba17;
-
 /**
  *
  * @author ubu16
@@ -30,6 +29,8 @@ public class Prjava01bamba17 {
             bw.write("</html>"); bw.newLine();
             bw.close();
         }
+        System.out.println("Nova página weg de Bamba17");
+        System.out.println("DAW2 UF4 Práctica 2");
     }
 }
         
